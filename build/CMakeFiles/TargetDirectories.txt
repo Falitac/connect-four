@@ -1,0 +1,3 @@
+D:/code/cpp/socket-game/build/CMakeFiles/edit_cache.dir
+D:/code/cpp/socket-game/build/CMakeFiles/connect-four.dir
+D:/code/cpp/socket-game/build/CMakeFiles/rebuild_cache.dir

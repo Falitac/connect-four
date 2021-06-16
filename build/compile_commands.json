@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/code/cpp/socket-game/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/connect-four.dir/src/board.cpp.obj -c D:/code/cpp/socket-game/src/board.cpp",
+  "file": "D:/code/cpp/socket-game/src/board.cpp"
+},
+{
+  "directory": "D:/code/cpp/socket-game/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/connect-four.dir/src/game.cpp.obj -c D:/code/cpp/socket-game/src/game.cpp",
+  "file": "D:/code/cpp/socket-game/src/game.cpp"
+},
+{
+  "directory": "D:/code/cpp/socket-game/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/connect-four.dir/src/main.cpp.obj -c D:/code/cpp/socket-game/src/main.cpp",
+  "file": "D:/code/cpp/socket-game/src/main.cpp"
+},
+{
+  "directory": "D:/code/cpp/socket-game/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/connect-four.dir/src/menuState.cpp.obj -c D:/code/cpp/socket-game/src/menuState.cpp",
+  "file": "D:/code/cpp/socket-game/src/menuState.cpp"
+},
+{
+  "directory": "D:/code/cpp/socket-game/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/connect-four.dir/src/playState.cpp.obj -c D:/code/cpp/socket-game/src/playState.cpp",
+  "file": "D:/code/cpp/socket-game/src/playState.cpp"
+},
+{
+  "directory": "D:/code/cpp/socket-game/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/connect-four.dir/src/player.cpp.obj -c D:/code/cpp/socket-game/src/player.cpp",
+  "file": "D:/code/cpp/socket-game/src/player.cpp"
+}
+]
